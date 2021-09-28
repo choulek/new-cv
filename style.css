@@ -1,0 +1,41 @@
+body{
+    background-image: url(téléchargement.jfif);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+img{width: 200px; height: 200px;}
+img:hover{
+    width: 400px;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-shadow:2px 2px 2px rgb(224, 237, 241);
+  }
+  h1{
+      color: red;
+      font-family: Arial;
+      font-style: italic;
+      text-shadow:2px 2px 2px rgb(224, 237, 241);
+        }
+    h1:hover{
+        color: rebeccapurple;
+        text-decoration: underline;
+    }
+
+li{
+    color: rgb(211, 245, 60);
+    font-family: monospace;
+    text-shadow:2px 2px 2px rgb(224, 237, 241);
+    
+}
+li:hover{text-decoration: underline;}
+body{
+    background-color: seagreen;
+}
+div{animation: ex infinite;
+
+    }
+    
